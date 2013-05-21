@@ -1,0 +1,5 @@
+= This is just an example of a packge file that we could use =
+
+It will make all the emacs dependancies we need.
+
+
