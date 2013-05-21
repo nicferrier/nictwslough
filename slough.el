@@ -32,5 +32,8 @@
   (message "welcome to the slough project"))
 
 
+(defun slough-thing ()
+  (let ((x))))
+
 (provide 'slough)
 ;;; slough.el ends here
